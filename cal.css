@@ -1,0 +1,26 @@
+﻿body {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color:aqua;
+}
+
+input[type="number"] {
+    width: 150px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+p#ans {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
